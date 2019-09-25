@@ -6,7 +6,7 @@ target 'AppOrderFilesSample' do
   use_frameworks!
 
 #pod 'AppOrderFiles'
-
+#pod 'AMapLocation'
   target 'AppOrderFilesSampleTests' do
     inherit! :search_paths
     # Pods for testing
