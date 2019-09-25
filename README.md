@@ -23,7 +23,7 @@
 
 修改AppOrderFiles.m通知定义的key保持一致
 
-`NSString * **const** APP_LAUNCH_FINISH_NOTIFICATION = @"app_launch_finish";`
+`NSString *const APP_LAUNCH_FINISH_NOTIFICATION = @"app_launch_finish";`
 
 ##### 3.运行一次程序，导出沙盒目录下的order.txt到电脑上
 
